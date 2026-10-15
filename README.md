@@ -1,5 +1,9 @@
 # virtuoso-observability
 
+> **Archived.** This library moved to [`positivinh/virtuoso`](https://github.com/positivinh/virtuoso/tree/main/virtuoso-observability),
+> with its history, and is built and released there from 2.0.0 on. Its groupId and artifactIds are unchanged. This
+> repository is read-only; open issues and pull requests on `positivinh/virtuoso`.
+
 Tracing, metrics and log correlation for Virtuoso applications, on top of Spring Boot's OpenTelemetry support
 (Micrometer Tracing with the OpenTelemetry bridge, OTLP exporters).
 
